@@ -1,1 +1,1 @@
-See the [Privacy](https://rust-analyzer.github.io/book/privacy.html) section of the user manual.
+Lee la sección [Privacy (inglés)](https://rust-analyzer.github.io/book/privacy.html) del manual de usuario.
