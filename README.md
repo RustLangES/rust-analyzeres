@@ -4,48 +4,52 @@
     alt="rust-analyzer logo">
 </p>
 
-rust-analyzer is a modular compiler frontend for the Rust language.
-It is a part of a larger rls-2.0 effort to create excellent IDE support for Rust.
+rust-analyzer es un front-end modular para el compilador del Lenguaje de programación Rust.
+Este es parte de un esfuerzo rls-2.0 más grande para crear el soporte perfecto a Rust para IDEs.
 
-## Quick Start
+## Inicio Rápido
 
-https://rust-analyzer.github.io/book/installation.html
+https://rust-analyzer.github.io/book/installation.html (inglés)
 
-## Documentation
+## Documentación
 
-If you want to **contribute** to rust-analyzer check out the [CONTRIBUTING.md](./CONTRIBUTING.md) or
-if you are just curious about how things work under the hood, see the
-[Contributing](https://rust-analyzer.github.io/book/contributing) section of the manual.
+Si quieres **contribuir** a rust-analyzer lee [CONTRIBUTING.md](./CONTRIBUTING.md) o
+si simplemente tienes curiosidad para saber como funcionan las cosas por debajo, mira la
+sección [Contributing (inglés)](https://rust-analyzer.github.io/book/contributing) del manual.
 
-If you want to **use** rust-analyzer's language server with your editor of
-choice, check [the manual](https://rust-analyzer.github.io/book/).
-It also contains some tips & tricks to help you be more productive when using rust-analyzer.
+Si quieres **usar** el servidor de lenguaje de rust-analyzer para tu editor revisa
+[el manual (inglés)](https://rust-analyzer.github.io/book/).
+Este también contiene algunos consejos y trucos para ayudarte a ser más productivo
+mientras usas rust-analyzer.
 
-## Security and Privacy
+## Seguridad y Privacidad
 
-See the [security](https://rust-analyzer.github.io/book/security.html) and
-[privacy](https://rust-analyzer.github.io/book/privacy.html) sections of the manual.
+Este repositorio es un fork al rust-analyzer, si deseas reportar cualquier cosa
+relacionada con la seguridad o privacidad revisa el documento
+[security (inglés)](https://rust-analyzer.github.io/book/security.html) y
+las secciones del manual [privacy (inglés)](https://rust-analyzer.github.io/book/privacy.html)
+para reportar eso al repositorio oficial de rust-analyzer
 
-## Communication
+## Comunicación
 
-For usage and troubleshooting requests, please use "IDEs and Editors" category of the Rust forum:
+Para uso y solicitudes de ayuda, por favor, usa la categoría "IDEs and Editors" del foro de Rust oficial:
 
-https://users.rust-lang.org/c/ide/14
+https://users.rust-lang.org/c/ide/14 (inglés)
 
-For questions about development and implementation, join rust-analyzer working group on Zulip:
+Para preguntas sobre desarrollo e integración, únete al grupo de trabajo rust-analyzer en Zulip:
 
-https://rust-lang.zulipchat.com/#narrow/stream/185405-t-compiler.2Frust-analyzer
+https://rust-lang.zulipchat.com/#narrow/stream/185405-t-compiler.2Frust-analyzer (inglés)
 
-## Quick Links
+## Links rapidos
 
-* Website: https://rust-analyzer.github.io/
-* Metrics: https://rust-analyzer.github.io/metrics/
-* API docs: https://rust-lang.github.io/rust-analyzer/ide/
-* Changelog: https://rust-analyzer.github.io/thisweek
+* Sitio web oficial: https://rust-analyzer.github.io/ (inglés)
+* Métricas: https://rust-analyzer.github.io/metrics/ (inglés)
+* Documentación de la API: https://rust-lang.github.io/rust-analyzer/ide/ (inglés)
+* Registro de cambios: https://rust-analyzer.github.io/thisweek (inglés)
 
 ## License
 
-rust-analyzer is primarily distributed under the terms of both the MIT
-license and the Apache License (Version 2.0).
+rust-analyzer es en mayor parte distribuido bajo los términos de
+las licencias MIT y Apache License (Versión 2.0).
 
-See LICENSE-APACHE and LICENSE-MIT for details.
+Revisa LICENSE-APACHE y LICENSE-MIT para más detalles.
