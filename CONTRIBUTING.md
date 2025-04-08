@@ -1,30 +1,39 @@
-# Contributing to rust-analyzer
+# Contribuyendo a rust-analyzer
 
-Thank you for your interest in contributing to rust-analyzer! There are many ways to contribute
-and we appreciate all of them.
+¡Gracias por tu interés en contribuir a rust-analyzer! Hay muchas maneras de contribuir
+y las apreciamos todas y cada una.
 
-To get a quick overview of the crates and structure of the project take a look at the
-[Contributing](https://rust-analyzer.github.io/book/contributing) section of the manual.
+*Si deseas contribuir una nueva característica a rust-analyzer, visita el [repositorio oficial](https://github.com/rust-lang/rust-analyzer).*
+Este repositorio son únicamente traducciones al idioma español sobre las características
+que provienen de rust-analyzer.
 
-If you have any questions please ask them in the [rust-analyzer zulip stream](
-https://rust-lang.zulipchat.com/#narrow/stream/185405-t-compiler.2Frust-analyzer) or if unsure where
-to start out when working on a concrete issue drop a comment on the related issue for mentoring
-instructions (general discussions are recommended to happen on zulip though).
+Para obtener una vista por encima sobre la estructura y los crates en este repositorio hecha un vistazo a
+la sección del manual [Contributing (inglés)](https://rust-analyzer.github.io/book/contributing).
 
-## Fixing a bug or improving a feature
+Si tienes cualquier pregunta relacionada con rust-analyzer, por favor, pregunta en [rust-analyzer Zulip stream](
+https://rust-lang.zulipchat.com/#narrow/stream/185405-t-compiler.2Frust-analyzer) en caso de no
+estar seguro sobre donde empezar cuando estés trabajando en una issue concreta, escribe un
+comentario con la issue relacionada para mentoría (las discusiones generales es recomendado que
+pasen en Zulip).
 
-Generally it's fine to just work on these kinds of things and put a pull-request out for it. If there
-is an issue accompanying it make sure to link it in the pull request description so it can be closed
-afterwards or linked for context.
 
-If you want to find something to fix or work on keep a look out for the `C-bug` and `C-enhancement`
-labels.
+## Arreglando un bug o mejorando una característica
 
-## Implementing a new feature
+Generalmente, está bien si simplemente trabajas en este tipo de cosas y abres una pull-request para
+ello. Si hay alguna issue acompañando tu solución, asegúrate de adjuntarla en la descripción de la
+pull-request para que sea cerrada posteriormente o simplemente adjuntada para contexto
 
-It's advised to first open an issue for any kind of new feature so the team can tell upfront whether
-the feature is desirable or not before any implementation work happens. We want to minimize the
-possibility of someone putting a lot of work into a feature that is then going to waste as we deem
-it out of scope (be it due to generally not fitting in with rust-analyzer, or just not having the
-maintenance capacity). If there already is a feature issue open but it is not clear whether it is
-considered accepted feel free to just drop a comment and ask!
+Si quieres buscar algo que arreglar o algo en lo que trabajar, busca las etiquetas `C-bug` y
+`C-enchancement` en el [repositorio oficial](https://github.com/rust-lang/rust-analyzer).
+
+
+
+## Implementando una nueva característica
+
+Es recomendado que primero abras una issue, para cualquier tipo de nueva característica, de este
+modo el equipo puede decirte de primeras si la característica es deseada o no, antes de que
+cualquier trabajo de implementación suceda. Queremos minimizar la posibilidad de que alguien ponga
+mucho trabajo en una característica muy grande, y que luego la designemos como que no se alinea
+con el repositorio (generalmente porque la característica no tiene nada que ver con rust-analyzer o
+porque no tenemos los recursos para mantener esta). Si ya hay una issue abierta describiendo lo que
+deseas implementar, ¡Escribe un comentario allí y pregunta!
